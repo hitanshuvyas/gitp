@@ -1,0 +1,2 @@
+# gitp
+to practic git
