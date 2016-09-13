@@ -9,11 +9,4 @@ Anish : Testing<br>
 rahul:praful noobda<br>
 Praful:chu*****<br>
 Anish : this is it<br>
-
-hello uncle how are u
-
-hello uncle how are u
-
-REbase experiment
-
 Praful : hello uncle how are u<br>
