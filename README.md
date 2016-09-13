@@ -6,9 +6,7 @@ Manav : sudo apt-get life<br>
 Anish : no such command over life<br>
 Anish : Evrything's cool<br>
 Anish : Testing<br>
-rahul:praful noobda
-
-Praful:chu*****
+rahul:praful noobda<br>
+Praful:chu*****<br>
 Anish : this is it<br>
-
-hello uncle how are u
+Praful : hello uncle how are u<br>
