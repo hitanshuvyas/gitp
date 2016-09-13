@@ -6,7 +6,4 @@ Manav : sudo apt-get life<br>
 Anish : no such command over life<br>
 Anish : Evrything's cool<br>
 Anish : Testing<br>
-rahul:praful noobda<br>
-Praful:chu*****<br>
-Anish : this is it<br>
-Praful : hello uncle how are u<br>
+Siri : kiska msg hai voh. bohot DP DP kar rahe ho
