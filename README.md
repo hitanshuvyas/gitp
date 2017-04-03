@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # gitp
 To practice git and team collaboration.
 
@@ -40,7 +41,3 @@ Bibek  : Haha Lets see first who does push
 Bibek : haha Hahaha Hahahaha
 bibek : CheckCheck
 bibek : Haha haha haha
-
-
-=======
->>>>>>> All Blank
