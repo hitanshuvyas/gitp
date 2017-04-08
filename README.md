@@ -3,3 +3,10 @@ Branch hai bhai branch hai
 Joke #2 - What do you call a thousand garden in hindi??
 Ans - check in master branch
 Joke #4 - and mand ka tola, jo ni nacha ------ nacho
+lets play a game... post jokes in here for other to read. how about it?
+ofcourse we can use internet. alright?
+### joke no.1
+Q: Where do robbers go to the bathroom
+A: Arrest-room</br>
+For the second joke, checkout the readme-edit branch, you'll find the clue there</br>
+#Joke 2 Ans - Hazaribagh :P :D</br>
