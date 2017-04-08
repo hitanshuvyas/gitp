@@ -1,4 +1,4 @@
-Wassup Anish? So what are we learning today?
+﻿Wassup Anish? So what are we learning today?
 Branch hai bhai branch hai
 Joke #2 - What do you call a thousand garden in hindi??
 Ans - check in master branch
@@ -14,3 +14,4 @@ For the second joke, checkout the readme-edit branch, you'll find the clue there
 #Joke 3
 If I was addicted to masturbation and then became addicted to sex… 
 …would it be safe to say my addiction got out of hand?
+Your addiction went to someone else's hand</br>
