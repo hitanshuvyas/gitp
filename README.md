@@ -1,3 +1,1 @@
-# git
-SSH key gen check
-## all cool, this is awesome.
+Wassup Anish? So waht are we learning today?
