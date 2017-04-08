@@ -1,1 +1,1 @@
-Wassup Anish? So waht are we learning today?
+Wassup Anish? So what are we learning today?
